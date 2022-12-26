@@ -1,0 +1,286 @@
+.dpimg {
+  width:20%;
+  vertical-align: top;
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-left: 1em;
+  display:inline-block;
+}
+
+.profession {
+  width:60%;
+  margin-top: 50px;
+  padding-left: 80px;
+  display: inline-block;
+}
+
+.paragragh {
+   font-family: font;
+  top: 100px;
+  padding-left: 4px;
+}
+
+.paragragh .lorem {
+  font-family: font;
+  text-align: left;
+  line-height: 25px;
+  width: 650px;
+  height: 30px;
+  font-size: 15px;
+  margin-bottom: 100px;
+  color: rgb(0 39 122);
+}
+@font-face {
+  font-family: harish;
+  src: url(Typekiln\ -\ EloquiaDisplay-ExtraBold.otf);
+}
+@font-face{
+  font-family: font;
+  src: url(Arkit-Regular.ttf);
+}
+.dpimg .name {
+  font-family :harish;
+  margin-left: 12px;
+  margin-bottom: 0px;
+  width: 5em;
+  color: rgb(0 39 122);
+  text-align: center;
+}
+
+.dpimg .role {
+  font-family: font;
+  font-size: 24px;
+  margin-top: 0.5px;
+  padding-top: 0.5px;
+  padding-bottom: 70px;
+  width: 20rem;
+  display: inline-block;
+  color: rgb(0 39 122);
+  text-align: left;
+}
+
+.dpimg .download {
+  border-radius: 10px;  
+  margin-top: 60px;
+  margin-left: 5px;
+  width: 200px;
+  height: 40px;
+  color: rgb(255, 255, 255);
+  background: rgb(54, 69, 234);
+}
+.dpimg .download p{
+  padding: 10px;
+  text-align:center;
+}
+.profession h1 {
+  font-family: font;
+  text-align: left;
+  color: darkblue;
+}
+
+.work-experience{
+  font-family: font;
+  margin-top: 200px;
+  font-family: Genera Alt Semi Bold;
+  text-align: left;
+  color: darkblue;
+}
+
+.profile-img {
+  border-radius: 50%;
+}
+
+.dpimg h4 {
+  margin-top:-100px;
+  margin-bottom: 0px;
+}
+
+.dpimg .user .icon {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+}
+
+.dpimg .user h4 {
+  width: 200px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  text-align:left;
+  color: rgb(5 45 133);
+  display: inline;
+}
+
+.dpimg .user{
+  line-height: 30px;
+  width: 100%;
+  display: inline;
+}
+.profession .work-main .work {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+h3 {
+  font-size: 23px;
+  text-align: left; 
+  color: rgb(46, 29, 121);
+  margin: 0px;
+  display: inline-block;
+}
+
+.profession .work-main .work .experience {
+  font-size: 20px;
+  text-align: left; 
+  color: rgb(46, 29, 121);
+  margin: 0px;
+  padding-right: 40px;
+  display: inline-block;
+}
+.profession .work-main .work .icon-left {
+  opacity:0.4;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+.profession .work-main .work .company{
+  font-size: 13px;
+  margin-top: 0px;
+  opacity:0.4;
+  padding-left: 5px;
+  display: inline-block;
+}
+
+.profession .work-main .work .icon-center{
+  padding-left: 25px;
+  opacity:0.4;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.profession .work-main .work .icon-center-two {
+  padding-left: 40px;
+  opacity:0.4;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.profession .work-main .work .location{
+  font-size: 13px;
+  margin-top: 0px;
+  opacity:0.4;
+  padding-left: 1px;
+  padding-right: 300px;
+  display: inline-block;
+}
+.profession .work-main .work .icon-right{
+  opacity:0.4;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+.work .work-align .icon-calendar-one {
+  padding-left: 80px;
+  opacity:0.4;
+  width: 10px;
+  height: 10px;
+  display: inline-block; 
+}
+
+.work .work-align .icon-calendar-two{
+  padding-left: 11px;
+  opacity:0.4;
+  width: 10px;
+  height: 10px;
+  display: inline-block; 
+}
+.profession .work-main .work .date{
+  font-size: 13px;
+  margin-top: 0px;
+  opacity:0.4;
+  margin: 0px;
+  text-align: right;
+  display: inline-block;
+}
+
+.work .work-align{
+  display: inline-block;
+}
+
+.profession .work-main .work .intern{
+  font-size: 20px;
+  text-align: left; 
+  color: rgb(46, 29, 121);
+  margin: 0px;
+  display: inline-block;
+  padding-right: 120px;
+}
+
+.profession hr {
+  opacity:0.1;
+  margin-top: 10px;
+  width: 40rem;
+  height: 0.1px;
+  border-bottom: 1px black;
+  background-color: black;
+}
+
+.profession .work-main .work .fulltime {
+  border-radius: 20px;
+  text-align: center;
+  color: rgb(1, 129, 226);
+  width: 80px;
+  height: 20px;
+  background: #d7ffe0;
+  border: 1px solid rgb(122, 245, 122);
+  margin-left: 300px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: inline-block;
+}
+
+.dpimg hr {
+  opacity:2px;
+  margin-top:1px;
+  width: 15rem;
+  height: 0.1px;
+  border-top: 1px black;
+}
+
+.Education-main hr {
+  opacity:0.1;
+  width: 40rem;
+  background-color: black;
+  display: inline-block;
+}
+
+.qualification {
+  font-size: 13px;
+  opacity:0.4;
+  padding-right: 250px;
+  padding-bottom: 0px;
+  text-align: right;
+  display: inline-block;
+}
+
+.icon-qraduate{
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.master .icon-calendar{
+  opacity:0.4;
+  padding-left: 20px;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+.master .calendar{
+  font-size: 13px;
+  opacity:0.4;
+  margin: 0px;
+  text-align: right;
+  display: inline-block;
+}
